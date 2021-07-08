@@ -17,6 +17,17 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/*
+作者:5115147@qq.com
+
+简介:超级CC攻击器,可穿透网络防火墙,内置过宝塔防火墙及安全牛防火墙验证(无法过滑窗验证)
+
+最强大的CC攻击器，开发及测试接近半年时间,软件多次升级,最终打造了这款神器
+
+本软件功能强大，使用多个代理平台，可秒杀中小型网站
+
+本软件不得用于攻击国内网站，不得用于攻击正常网站
+ */
 
 namespace SuperCcAttack
 {
